@@ -1,0 +1,34 @@
+D:\trang\Giaodien2\Giaodien2\bin\Debug\Giaodien2.exe.config
+D:\trang\Giaodien2\Giaodien2\bin\Debug\Giaodien2.exe
+D:\trang\Giaodien2\Giaodien2\bin\Debug\Giaodien2.pdb
+D:\trang\Giaodien2\Giaodien2\obj\Debug\Giaodien2.Frm_MaHoaDX.resources
+D:\trang\Giaodien2\Giaodien2\obj\Debug\Giaodien2.Properties.Resources.resources
+D:\trang\Giaodien2\Giaodien2\obj\Debug\Giaodien2.csproj.GenerateResource.Cache
+D:\trang\Giaodien2\Giaodien2\obj\Debug\Giaodien2.exe
+D:\trang\Giaodien2\Giaodien2\obj\Debug\Giaodien2.pdb
+D:\trang\Giaodien2\Giaodien2\obj\Debug\Giaodien2.csprojResolveAssemblyReference.cache
+D:\trang\Giaodien2\Giaodien2\obj\Debug\Giaodien2.Frm_FormMain.resources
+D:\trang\Giaodien2\Giaodien2\obj\Debug\Giaodien2.frm_giaimadx.resources
+D:\trang\Giaodien2\Giaodien2\obj\Debug\Giaodien2.frm_mahoarsa.resources
+D:\trang\Giaodien2\Giaodien2\obj\Debug\Giaodien2.frm_giaimarsa.resources
+D:\trang\Giaodien2\Giaodien2\obj\Debug\Giaodien2.frm_Login.resources
+D:\trang\Giaodien2\Giaodien2\obj\Debug\Giaodien2.frm_Update.resources
+D:\trang\Giaodien2\Giaodien2\obj\Debug\Giaodien2.frm_Registration.resources
+D:\trang\Giaodien2\Giaodien2\obj\Debug\Giaodien2.frm_Adminform.resources
+D:\trang\Giaodien2\Giaodien2\obj\Debug\Giaodien2.frm_Adminlogin.resources
+F:\C Sharp\Giaodien2\Giaodien2\Giaodien2\bin\Debug\Giaodien2.exe.config
+F:\C Sharp\Giaodien2\Giaodien2\Giaodien2\obj\Debug\Giaodien2.exe
+F:\C Sharp\Giaodien2\Giaodien2\Giaodien2\obj\Debug\Giaodien2.pdb
+F:\C Sharp\Giaodien2\Giaodien2\Giaodien2\obj\Debug\Giaodien2.csprojResolveAssemblyReference.cache
+F:\C Sharp\Giaodien2\Giaodien2\Giaodien2\obj\Debug\Giaodien2.frm_Adminform.resources
+F:\C Sharp\Giaodien2\Giaodien2\Giaodien2\obj\Debug\Giaodien2.frm_Adminlogin.resources
+F:\C Sharp\Giaodien2\Giaodien2\Giaodien2\obj\Debug\Giaodien2.Frm_FormMain.resources
+F:\C Sharp\Giaodien2\Giaodien2\Giaodien2\obj\Debug\Giaodien2.frm_giaimarsa.resources
+F:\C Sharp\Giaodien2\Giaodien2\Giaodien2\obj\Debug\Giaodien2.frm_Login.resources
+F:\C Sharp\Giaodien2\Giaodien2\Giaodien2\obj\Debug\Giaodien2.Frm_MaHoaDX.resources
+F:\C Sharp\Giaodien2\Giaodien2\Giaodien2\obj\Debug\Giaodien2.frm_giaimadx.resources
+F:\C Sharp\Giaodien2\Giaodien2\Giaodien2\obj\Debug\Giaodien2.frm_mahoarsa.resources
+F:\C Sharp\Giaodien2\Giaodien2\Giaodien2\obj\Debug\Giaodien2.frm_Registration.resources
+F:\C Sharp\Giaodien2\Giaodien2\Giaodien2\obj\Debug\Giaodien2.frm_Update.resources
+F:\C Sharp\Giaodien2\Giaodien2\Giaodien2\obj\Debug\Giaodien2.Properties.Resources.resources
+F:\C Sharp\Giaodien2\Giaodien2\Giaodien2\obj\Debug\Giaodien2.csproj.GenerateResource.Cache
